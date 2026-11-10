@@ -40,6 +40,17 @@ const projects = [
     liveUrl: 'https://chamanosmash.netlify.app/',
     githubUrl: '',
   },
+
+  {
+    id: 'Capitação para clinicas de Reabilitação',
+    title: 'Site para capitar necessitados de reabilitação',
+    description: 'Ajuda para vicios, tipo de vicios, como podem ser combatidos e ajuda efetiva',
+    image: '/images/projects/viverdecaralimpa.png',
+    technologies: ['React', 'CSS',],
+    liveUrl: 'https://viverdecaralimpa.com.br',
+    githubUrl: '',
+
+  },
 ]
 
 export default projects
